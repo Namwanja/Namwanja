@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Namwanja
-- 👀 I’m interested in machineLearning
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on a machinelearning project 
+- 👀 I’m interested in webdevelopement, cybersecurity and machineLearning
+- 🌱 I’m currently softwaresecurity engineer
+- 💞️ I’m looking to collaborate on grounde project 
 - 📫 How to reach me...
 
 <!---
